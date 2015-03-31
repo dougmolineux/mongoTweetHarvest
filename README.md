@@ -5,7 +5,7 @@ You'll need to add the tokens to the top of app.js and make sure mongod is runni
 
 First run, "npm install".
 
-Then, run with "node index.js cats" to search for tweets with cats.
+Then, run with "node app.js cats" to search for tweets with cats.
 
 Problems:
 ```
